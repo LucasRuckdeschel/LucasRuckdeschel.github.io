@@ -1,2 +1,2 @@
-# LucasRuckdeschel.github.io-cartography
+# LucasRuckdeschel.github.io
 My cartography website
